@@ -1,0 +1,4 @@
+pytz
+requests
+python-telegram-bot
+pycountry
