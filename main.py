@@ -60,7 +60,7 @@ except ImportError:
     print("⚠️ Telegram modules not available. Run: pip install python-telegram-bot")
 
 # ==================== CONFIGURATION ====================
-TOKEN = "8900306582:AAE8oz6ZBNeJLro_nwswrYQ4n22XVyFAdK0"  # Replace with your bot token
+TOKEN = "8975657408:AAHBLQ07BJMNb4h2GDc9oWWNbMPMRwMYULU"  # Replace with your bot token
 MAX_FILE_SIZE = 50 * 1024 * 1024  # 50MB limit
 MAX_THREADS = 10
 BOT_VERSION = "2.1.0"
